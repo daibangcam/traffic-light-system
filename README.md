@@ -17,6 +17,6 @@ Website: http://hano.cf/
 
 Watch it on YouTube 
 
-[Traffic Light System V1](https://youtu.be/d56tqMDrdRA)
+[Traffic Light System V1](https://youtu.be/ouSC2PxR7Ec)
 
-[Traffic Light System V2](https://youtu.be/5-hxRq7Euq4)
+[Traffic Light System V2](https://youtu.be/coHRHEZkRSA)
